@@ -11,3 +11,5 @@ permalink: /Projects.html
 ## Clone the repo, navigate to the directory on file explorer and double click a .HTML file to open in a browser
 ## Known Bugs
 {No issues that are yet to be resolved.}
+## Technologies Used
+{languages used to create this website HTML and CSS.}
