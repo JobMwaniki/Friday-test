@@ -19,7 +19,7 @@ languages used to create this website HTML and CSS.
 Job Mwaniki; 
 Contact; 0724141381
 Email; jobmwanikinjuguna@gmail.com}
-## The site is deployed
+## website
 https://jobmwaniki.github.io/Friday-test/
 ### License
 Permission is hereby granted, free of charge, to any person obtaining a copy
