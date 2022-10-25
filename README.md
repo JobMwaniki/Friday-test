@@ -12,7 +12,7 @@ This is a portfolio website to showcase my work and let others know about myself
 ## Known Bugs
 No issues that are yet to be resolved.
 ## Technologies Used
-{languages used to create this website HTML and CSS.}
+languages used to create this website HTML and CSS.
 ## Support and contact details
 {Job Mwaniki; Contact; 0724141381; Email; jobmwanikinjuguna@gmail.com}
 ## The site is deployed
