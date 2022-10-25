@@ -13,3 +13,5 @@ permalink: /Projects.html
 {No issues that are yet to be resolved.}
 ## Technologies Used
 {languages used to create this website HTML and CSS.}
+## Support and contact details
+{Job Mwaniki; Contact; 0724141381; Email; jobmwanikinjuguna@gmail.com}
