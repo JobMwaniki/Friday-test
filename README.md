@@ -15,3 +15,5 @@ permalink: /Projects.html
 {languages used to create this website HTML and CSS.}
 ## Support and contact details
 {Job Mwaniki; Contact; 0724141381; Email; jobmwanikinjuguna@gmail.com}
+## The site is deployed
+{https://jobmwaniki.github.io/Friday-test/}
