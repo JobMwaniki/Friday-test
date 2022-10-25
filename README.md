@@ -1,8 +1,3 @@
-# Friday-test
----
-permalink: /index.html
-permalink: /Projects.html
----
 # Portfolio Project.
 #### Authored by: 
 Job Mwaniki,
